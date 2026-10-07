@@ -1,0 +1,11 @@
+<figure class="video{% if include.portrait %} video--portrait{% endif %}">
+  {% if include.id and include.id != "" %}
+  <div class="video-frame">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ include.id | escape }}" title="{{ include.title | escape }}" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  {% else %}
+  <div class="video-frame media-placeholder">
+    <p><strong>YouTube video placeholder</strong><br>Add a video ID and a descriptive title in this page.</p>
+  </div>
+  {% endif %}
+</figure>

@@ -1,0 +1,22 @@
+title: Macy Gilliam
+description: The personal website of Macy Gilliam.
+url: "https://macyagilliam.github.io"
+baseurl: "/macyagilliam"
+
+markdown: kramdown
+theme: null
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - AGENTS.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts/
+  - vendor/

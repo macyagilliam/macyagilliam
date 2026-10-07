@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.url != '/' %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+      <nav aria-label="Main navigation">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a></li>
+          <li><a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a></li>
+          <li><a href="{{ '/work/' | relative_url }}"{% if page.url == '/work/' %} aria-current="page"{% endif %}>Work</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main-content" tabindex="-1">
+      <h1>{{ page.title | escape }}</h1>
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <h2>Find me online</h2>
+      {% assign social_links = site.data.socials | where_exp: "social", "social.url != nil" | where_exp: "social", "social.url != ''" %}
+      {% if social_links.size > 0 %}
+      <ul class="social-links">
+        {% for social in social_links %}
+        <li><a href="{{ social.url | escape }}">{{ social.label | escape }}</a></li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p class="muted">[Social and contact links placeholder]</p>
+      {% endif %}
+      <small>{{ site.title | escape }}</small>
+    </footer>
+  </body>
+</html>

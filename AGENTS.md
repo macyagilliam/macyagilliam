@@ -83,6 +83,8 @@ are available. Report what ran, what passed, and what remains unverified.
 - Work on a branch and prefer a pull request into `main`. A human reviews and
   decides when to publish. Do not push, open a PR, merge, or change repository or
   domain settings without approval. Explain changes briefly in plain language.
+- Commit finished changes locally with a brief message. Committing is expected;
+  pushing is not.
 - The **Build and check** PR check builds and checks links; it does not publish.
   Once Pages is configured, merging into `main` publishes the site.
 - Undo a published change with **Revert** on its merged PR, then review and merge

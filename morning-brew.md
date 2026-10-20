@@ -5,11 +5,15 @@ permalink: /morning-brew/
 
 I’ve worked at Morning Brew since 2022. It was my very first job out of college:) I’ve made many things I’m proud of during that time, here’s a small sample.
 
-## Videos
+## the videos that defined my style
 
-[Video placeholder: add a short introduction to a selected video.]
+{% include youtube.html id="8V9ypoULc0I" title="I delivered food to find out…can these apps survive?" %}
 
-{% include youtube.html id="" title="Selected video — replace with a descriptive title" %}
+{% include youtube.html id="Azk_f9rl-iQ" title="I spent a day working with NYC's hot dog king" %}
+
+{% include youtube.html id="uMJpSB0Q46E" title="I ran the NYC marathon to find out how marathons make money" %}
+
+{% include youtube.html id="ucWsaVbEu78" title="I started a plumbing company to sell it to private equity" %}
 
 ### Shorts
 

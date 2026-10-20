@@ -19,7 +19,7 @@ You can see the regular stats for yourself, but here are some non-traditional su
 - countless friends have told me they either no longer order DoorDash, or tip way more when they do
 - at least one man ran a marathon after watching my video, I was at the finish line of the OKC marathon watching my brother run and a guy who had just finished said "Oh my god I ran this today because I saw your video and thought if you could do it I could too"
 - a few people showed up and joined the junior board of Big Brothers Big Sisters that I'm on after hearing me mention it in the marathon video
-- my old colleague, the Hotdog King, catered the one year anniversary party for Out There
+- my old colleague, the Hotdog King, catered the one-year anniversary party for Out There
 - many people have asked me in earnest if I own a plumbing company. I don't, but I could see how they'd be confused
 
 ### Shorts

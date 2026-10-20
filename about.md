@@ -9,4 +9,4 @@ permalink: /about/
 
 [Optional placeholder: add a few personal details or interests that feel relevant. Remove this section if it isn’t needed.]
 
-[Explore my work]({{ '/work/' | relative_url }})
+[Explore Morning Brew]({{ '/morning-brew/' | relative_url }})

@@ -12,4 +12,4 @@ title: Macy Gilliam
 
 {% include youtube.html id="" title="Featured video — replace with a descriptive title" %}
 
-[More about me]({{ '/about/' | relative_url }}) · [See my work]({{ '/work/' | relative_url }})
+[More about me]({{ '/about/' | relative_url }}) · [See Morning Brew]({{ '/morning-brew/' | relative_url }})

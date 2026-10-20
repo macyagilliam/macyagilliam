@@ -1,9 +1,9 @@
 ---
-title: Work
-permalink: /work/
+title: Morning Brew
+permalink: /morning-brew/
 ---
 
-[Work introduction placeholder: describe the kinds of videos, images, or projects Macy would like to share.]
+[Morning Brew introduction placeholder: describe the kinds of videos, images, or projects Macy would like to share.]
 
 ## Videos
 

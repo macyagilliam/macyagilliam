@@ -1,5 +1,5 @@
 ---
-title: Work With Me
+title: work with me
 permalink: /work-with-me/
 ---
 

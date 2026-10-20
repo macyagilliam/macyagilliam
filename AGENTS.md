@@ -20,6 +20,11 @@ page address. Edit the writing below it. Remove unneeded placeholder sections.
 For requested design changes, use `_layouts/default.html` and
 `assets/css/style.css`; reuse the existing includes in `_includes/`.
 
+Page titles are lowercase — `title: about`, `title: work with me`. Keep proper and
+business names capitalized, such as `title: Morning Brew` and the site title,
+`Macy Gilliam`. Nav labels in `_layouts/default.html` match page titles; the home
+link reads `home` while the homepage title is the site title.
+
 ## Images
 
 Put web-sized copies in `assets/images/`, usually 1,600–2,000 pixels on the long

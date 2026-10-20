@@ -14,9 +14,9 @@ I’ve worked at Morning Brew since 2022. It was my very first job out of colleg
 {% include youtube.html id="ucWsaVbEu78" title="I started a plumbing company to sell it to private equity" %}
 </div>
 
-You can see the regular stats for yourself, but here are some non-traditional success metrics from these
+You can see the regular stats for yourself, but here are some non-traditional success metrics from these:
 
-- countless friends have told me they either no longer order Doordash, or tip way more when they do
+- countless friends have told me they either no longer order DoorDash, or tip way more when they do
 - at least one man ran a marathon after watching my video, I was at the finish line of the OKC marathon watching my brother run and a guy who had just finished said "Oh my god I ran this today because I saw your video and thought if you could do it I could too"
 
 ### Shorts

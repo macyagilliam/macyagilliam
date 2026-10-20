@@ -56,6 +56,28 @@ An empty ID shows a placeholder. Embeds resize, load lazily, support fullscreen,
 and never autoplay. The `youtube-nocookie.com` domain is privacy-enhanced, not
 tracking-free; playing a video can share data with YouTube/Google.
 
+To fetch a real video title and channel name instead of inventing one, ask the
+public oEmbed endpoint and use only the ID:
+
+```sh
+curl "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv=VIDEO_ID&format=json"
+```
+
+Drop any `?si=` or other share parameter from the link; it is tracking, not part of
+the ID.
+
+For a side-by-side group, wrap consecutive include lines in a `video-grid` div with
+no blank lines inside. Two columns on wide screens, one column on phones:
+
+```liquid
+<div class="video-grid">
+{% include youtube.html id="ID_ONE" title="First video title" %}
+{% include youtube.html id="ID_TWO" title="Second video title" %}
+</div>
+```
+
+Keep vertical Shorts outside the grid with `portrait=true`.
+
 ## Preview and checks
 
 Do not install Ruby, Bundler, or gems on this machine; the owner does not want the

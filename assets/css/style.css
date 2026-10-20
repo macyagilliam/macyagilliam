@@ -188,6 +188,22 @@ figcaption {
   border: 0;
 }
 
+.video-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1.75rem 0;
+}
+
+.video-grid .video {
+  margin: 0;
+}
+
+@media (min-width: 46rem) {
+  .video-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .media-placeholder {
   display: grid;
   place-items: center;

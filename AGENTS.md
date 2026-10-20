@@ -52,12 +52,21 @@ tracking-free; playing a video can share data with YouTube/Google.
 
 ## Preview and checks
 
-Use Ruby 3.3. Ask before installing missing tools. `Gemfile` and `Gemfile.lock`
-keep the build compatible with GitHub Pages; leave them alone unless a dependency
-change is approved. From the repository folder:
+Do not install Ruby, Bundler, or gems on this machine; the owner does not want the
+Ruby toolchain downloaded here. Do not offer to install it. Check what is already
+present with `ruby -v` and `bundle -v`. If either is missing or Ruby is older than
+3.3, skip the local preview and the commands below, make the edits anyway, and
+report that the build, `scripts/check_site.rb`, and browser checks did not run. In
+that case the **Build and check** PR check is the only automated verification, so
+call out anything it would have caught: broken internal links, missing image files,
+missing alt text, and Markdown or front matter errors. Ask before installing any
+other missing tool.
+
+`Gemfile` and `Gemfile.lock` keep the build compatible with GitHub Pages; leave
+them alone unless a dependency change is approved. Where Ruby 3.3 and Bundler are
+already installed, run from the repository folder:
 
 ```sh
-gem install bundler -v 2.5.22
 bundle config set --local path vendor/bundle
 bundle install
 bundle exec jekyll serve --safe --strict_front_matter
@@ -66,7 +75,7 @@ bundle exec jekyll serve --safe --strict_front_matter
 Preview at `http://localhost:4000/macyagilliam/`. Saved changes rebuild; refresh
 the browser to see them. Stop with Ctrl+C. Restart after changing `_config.yml`.
 
-Before handing off, run:
+Where the toolchain is installed, run before handing off:
 
 ```sh
 bundle exec jekyll build --safe --strict_front_matter

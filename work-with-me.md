@@ -5,12 +5,21 @@ permalink: /work-with-me/
 
 [Work with me introduction placeholder: describe the kind of collaborations Macy is open to and what makes her a good fit. Keep it in her own words.]
 
-## What I can help with
+## youtube video sponsorships
 
-[Services placeholder: list the specific things Macy is willing to take on, such as video production, editing, on-camera work, or creative direction. Remove any line that isn’t something she actually offers.]
+[Sponsorship placeholder: describe what a sponsored video involves, what a sponsor gets, and what you need from them. Replace this line with real copy.]
 
-- [Service placeholder: first offering and what the client gets.]
-- [Service placeholder: second offering and what the client gets.]
+## custom social videos
+
+[Custom video placeholder: describe the videos you make for clients, where they run, and how to request one. Replace this line with real copy.]
+
+## speaking engagements
+
+[Speaking placeholder: describe the settings you speak in, the topics you cover, and how organizers should reach you. Replace this line with real copy.]
+
+## other
+
+[Other placeholder: describe the catch-all requests you are open to, or remove this section.]
 
 ## How it works
 

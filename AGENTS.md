@@ -89,11 +89,14 @@ are available. Report what ran, what passed, and what remains unverified.
 
 ## Publishing and undoing changes
 
-- Work on a branch and prefer a pull request into `main`. A human reviews and
-  decides when to publish. Do not push, open a PR, merge, or change repository or
-  domain settings without approval. Explain changes briefly in plain language.
-- Commit finished changes locally with a brief message. Committing is expected;
-  pushing is not.
+- Work on the `test-changes` branch. Committing and pushing there are expected
+  without asking. Never push to `main`, and open a pull request into `main` only
+  when asked. A human reviews and decides when to publish. Do not merge or change
+  repository or domain settings without approval. Explain changes briefly in plain
+  language.
+- Commit finished changes with a brief message, one topic per commit. Pushing to
+  `test-changes` neither publishes the site nor runs **Build and check**, which
+  runs only on pull requests into `main`.
 - The **Build and check** PR check builds and checks links; it does not publish.
   Once Pages is configured, merging into `main` publishes the site.
 - Undo a published change with **Revert** on its merged PR, then review and merge

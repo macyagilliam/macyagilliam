@@ -3,7 +3,7 @@ title: Morning Brew
 permalink: /morning-brew/
 ---
 
-I've worked at Morning Brew since 2022. It was my first job out of college. I've made many things I'm proud of during that time, here's a small sample.
+I’ve worked at Morning Brew since 2022. It was my very first job out of college:) I’ve made many things I’m proud of during that time, here’s a small sample.
 
 ## Videos
 

@@ -9,6 +9,7 @@ and maintenance instructions here, not in the README.
 - `index.md`: homepage introduction and featured content.
 - `about.md`: biography.
 - `morning-brew.md`: videos, images, and collaborations.
+- `work-with-me.md`: services, process, and how to start a conversation.
 - `_data/socials.yml`: social and contact links. Set `url` to a full `https://…`
   address or `mailto:PUBLIC_EMAIL`. Empty URLs stay hidden; remove unused entries.
 - `_config.yml`: site title, description, and address.

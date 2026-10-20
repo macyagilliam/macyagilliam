@@ -3,7 +3,7 @@ title: Morning Brew
 permalink: /morning-brew/
 ---
 
-[Morning Brew introduction placeholder: describe the kinds of videos, images, or projects Macy would like to share.]
+I've worked at Morning Brew since 2022. It was my first job out of college. I've made many things I'm proud of during that time, here's a small sample.
 
 ## Videos
 

@@ -188,20 +188,20 @@ figcaption {
   border: 0;
 }
 
-.video-grid {
-  display: grid;
+.video-scroller {
+  display: flex;
   gap: 1rem;
   margin: 1.75rem 0;
+  padding-bottom: 0.5rem;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
 }
 
-.video-grid .video {
+.video-scroller .video {
+  flex: 0 0 min(26rem, 88%);
   margin: 0;
-}
-
-@media (min-width: 46rem) {
-  .video-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
+  scroll-snap-align: start;
 }
 
 .media-placeholder {

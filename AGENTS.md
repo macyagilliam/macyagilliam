@@ -66,17 +66,21 @@ curl "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3
 Drop any `?si=` or other share parameter from the link; it is tracking, not part of
 the ID.
 
-For a side-by-side group, wrap consecutive include lines in a `video-grid` div with
-no blank lines inside. Two columns on wide screens, one column on phones:
+For a group of videos, wrap consecutive include lines in a `video-scroller` div
+with no blank lines inside. Cards are wider than a half-width column so the YouTube
+player's title bar crowds them less, snap into place, and scroll sideways; the
+partial card peeking in is what shows there is more to see. Keep the `role`,
+`aria-label`, and `tabindex` so the region is reachable by keyboard:
 
 ```liquid
-<div class="video-grid">
+<div class="video-scroller" role="region" aria-label="section name" tabindex="0">
 {% include youtube.html id="ID_ONE" title="First video title" %}
 {% include youtube.html id="ID_TWO" title="Second video title" %}
 </div>
 ```
 
-Keep vertical Shorts outside the grid with `portrait=true`.
+Keep vertical Shorts outside the scroller with `portrait=true`, where the tall
+aspect ratio keeps the player chrome off the thumbnail.
 
 ## Preview and checks
 

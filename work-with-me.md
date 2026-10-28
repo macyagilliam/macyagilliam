@@ -17,6 +17,10 @@ permalink: /work-with-me/
 
 [Speaking placeholder: describe the settings you speak in, the topics you cover, and how organizers should reach you. Replace this line with real copy.]
 
+## video coaching and consulting
+
+[Video coaching and consulting placeholder: describe who you coach, what a session covers, and how someone can book one. Replace this line with real copy.]
+
 ## other
 
 [Other placeholder: describe the catch-all requests you are open to, or remove this section.]

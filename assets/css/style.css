@@ -204,6 +204,10 @@ figcaption {
   scroll-snap-align: start;
 }
 
+.video-scroller .video--portrait {
+  flex: 0 0 min(17rem, 72%);
+}
+
 .media-placeholder {
   display: grid;
   place-items: center;

@@ -24,6 +24,11 @@ You can see the regular stats for yourself, but here are some non-traditional su
 
 ### Shorts
 
-[Shorts placeholder: add a vertical video, or remove this section.]
-
-{% include youtube.html id="" title="Short video — replace with a descriptive title" portrait=true %}
+<div class="video-scroller" role="region" aria-label="Shorts" tabindex="0">
+{% include instagram.html code="Db9CWFTO3ym" title="Instagram reel one — replace with a descriptive title" %}
+{% include instagram.html code="DFGk6Odva0Z" title="Instagram reel two — replace with a descriptive title" %}
+{% include instagram.html code="DXHtsVkEeSu" title="Instagram reel three — replace with a descriptive title" %}
+{% include instagram.html code="DRSr_8VkeSL" title="Instagram reel four — replace with a descriptive title" %}
+{% include instagram.html code="DMx-r7YM4h-" title="Instagram reel five — replace with a descriptive title" %}
+{% include instagram.html code="DGLnwksxzE9" title="Instagram reel six — replace with a descriptive title" %}
+</div>

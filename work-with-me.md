@@ -7,6 +7,8 @@ permalink: /work-with-me/
 
 Ad reads in a YouTube video or custom social content
 
+These work best when you trust me to make content in my normal style, like these: [Hammermill](https://www.instagram.com/reel/DOY9JDJERA1/) and [Hoka](https://youtu.be/uMJpSB0Q46E?t=878)
+
 ## video coaching and consulting
 
 Start to finish video creation. Strategy, ideation, hiring, production, talent-coaching, post production. I’ll walk with you through the whole process and teach you to make video that works for your brand.

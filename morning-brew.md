@@ -32,3 +32,13 @@ You can see the regular stats for yourself, but here are some non-traditional su
 {% include instagram.html code="DMx-r7YM4h-" title="Instagram reel five — replace with a descriptive title" %}
 {% include instagram.html code="DGLnwksxzE9" title="Instagram reel six — replace with a descriptive title" %}
 </div>
+
+### Sketches
+
+I don’t write sketches much these days, but these are some of my favorites from when I did
+
+<div class="video-scroller" role="region" aria-label="Sketches" tabindex="0">
+{% include instagram.html code="DEqHFX-vcj-" title="Maternity leave in the US" %}
+{% include instagram.html code="DG5_WfCgtN1" title="International Women’s Day" %}
+{% include instagram.html code="C_3tdzjyj1W" title="Big car safe?" %}
+</div>

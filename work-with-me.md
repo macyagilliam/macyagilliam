@@ -13,7 +13,7 @@ These work best when you trust me to make content in my normal style, like these
 
 Start to finish video creation. Strategy, ideation, hiring, production, talent-coaching, post production. I’ll walk with you through the whole process and teach you to make video that works for your brand.
 
-unofficial testimonials from Morning Brew coworkers:
+from past video producers I’ve worked with:
 
 > “Also ty for all of your feedback. I feel like you’re not only giving really good advice, but also advice where it is immediately obvious why it is good advice—which makes it really actionable”
 >

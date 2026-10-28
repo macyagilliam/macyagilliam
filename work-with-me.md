@@ -21,6 +21,6 @@ Panels, hosting, MCing, etc.
 
 ## convince your boss for the budget
 
-[Convince your boss placeholder: add the language, justification, or talking points someone can take to their employer to get this work approved. Replace this line with real copy.]
+Macy is a three time Webby award winning video creator who has spent 4 years building the video team and strategy for Morning Brew. She’s gotten hundreds of millions of views on YouTube, Instagram, and TikTok.
 
 [Back to my work]({{ '/morning-brew/' | relative_url }}) · [More about me]({{ '/about/' | relative_url }})

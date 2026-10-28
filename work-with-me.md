@@ -19,7 +19,7 @@ unofficial testimonials from Morning Brew coworkers:
 >
 > — producer 1
 >
-> “it’s actually so wonderful to have you as a supervising producerbig fan of supervising producers in concept and you’re doing a good job as one”
+> “it’s actually so wonderful to have you as a supervising producer. big fan of supervising producers in concept and you’re doing a good job as one”
 >
 > — producer 2
 

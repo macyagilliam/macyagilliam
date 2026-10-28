@@ -25,10 +25,10 @@ You can see the regular stats for yourself, but here are some non-traditional su
 ### Shorts
 
 <div class="video-scroller" role="region" aria-label="Shorts" tabindex="0">
-{% include instagram.html code="Db9CWFTO3ym" title="Instagram reel one — replace with a descriptive title" %}
-{% include instagram.html code="DFGk6Odva0Z" title="Instagram reel two — replace with a descriptive title" %}
-{% include instagram.html code="DXHtsVkEeSu" title="Instagram reel three — replace with a descriptive title" %}
-{% include instagram.html code="DRSr_8VkeSL" title="Instagram reel four — replace with a descriptive title" %}
-{% include instagram.html code="DMx-r7YM4h-" title="Instagram reel five — replace with a descriptive title" %}
-{% include instagram.html code="DGLnwksxzE9" title="Instagram reel six — replace with a descriptive title" %}
+{% include reel.html code="Db9CWFTO3ym" image="/assets/images/reels/reel-eclipse.jpg" width=720 height=1280 alt="Macy holding a microphone on a sunny street in Seville, with an Out There logo in the corner." caption="I traveled to the eclipse to find out why so many people travel to eclipses @macyagilliam" meta="7K likes on Instagram" %}
+{% include reel.html code="DFGk6Odva0Z" image="/assets/images/reels/reel-rubber-stamps.jpg" width=640 height=1136 alt="Macy in a striped shirt in front of a yellow Rubber Stamps storefront banner." caption="How does a handmade rubber stamp store stay open in NYC?" meta="137K likes on Instagram" %}
+{% include reel.html code="DXHtsVkEeSu" image="/assets/images/reels/reel-google-maps.jpg" width=640 height=1136 alt="Macy in a blue sweater talking to camera in a Morning Brew office." caption="Google Maps shows you a different map than me. Why? 🎥: @dylanoza" meta="3.7K likes on Instagram" %}
+{% include reel.html code="DRSr_8VkeSL" image="/assets/images/reels/reel-sweet-pickle-books.jpg" width=640 height=1136 alt="A person walking out of the Sweet Pickle Books storefront onto the sidewalk." caption="Why does this bookstore give away pickles 📍: @sweetpicklebooks 🎥: @lidiagoldbergreports" meta="31K likes on Instagram" %}
+{% include reel.html code="DMx-r7YM4h-" image="/assets/images/reels/reel-ferry-captain.jpg" width=720 height=1280 alt="Macy in a life vest aiming a fire hose off the deck of an NYC Ferry, Manhattan skyline behind her." caption="What it takes to be an NYC Ferry captain 🎥: @meagcherry 🛥️: @nycferry" meta="2.6K likes on Instagram" %}
+{% include reel.html code="DGLnwksxzE9" image="/assets/images/reels/reel-chess-forum.jpg" width=640 height=1136 alt="Macy in a blue top in front of the Chess Forum store sign on a New York street." caption="How does a chess store stay open in NYC? @macyagilliam" meta="120K likes on Instagram" %}
 </div>

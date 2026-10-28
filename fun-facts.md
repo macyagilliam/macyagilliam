@@ -3,10 +3,8 @@ title: "fun facts :)"
 permalink: /fun-facts/
 ---
 
-[Biography placeholder: introduce Macy in her own words. Share the interests, background, and creative work she wants to make public.]
-
 ## A little more about me
 
-[Optional placeholder: add a few personal details or interests that feel relevant. Remove this section if it isn’t needed.]
+I’ve watched over 120 movies so far this year. Favorites include Amélie, Lucky People Center International, and Sheep Detectives. Least favorite was easily High Fidelity. Hated it.
 
 [Explore Morning Brew]({{ '/morning-brew/' | relative_url }})

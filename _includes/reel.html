@@ -1,8 +1,0 @@
-<figure class="video video--portrait reel">
-  <a class="reel-link" href="https://www.instagram.com/reel/{{ include.code | escape }}/">
-    <img src="{{ include.image | relative_url }}" alt="{{ include.alt | escape }}" width="{{ include.width }}" height="{{ include.height }}" loading="lazy" decoding="async">
-    <span class="reel-play" aria-hidden="true"></span>
-  </a>
-  {% if include.caption %}<figcaption>{{ include.caption | escape }}</figcaption>{% endif %}
-  {% if include.meta %}<p class="reel-meta muted">{{ include.meta | escape }}</p>{% endif %}
-</figure>

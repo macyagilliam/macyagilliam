@@ -188,47 +188,6 @@ figcaption {
   border: 0;
 }
 
-.reel-link {
-  position: relative;
-  display: block;
-  border-radius: 0.5rem;
-  overflow: hidden;
-}
-
-.reel img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.reel-play {
-  position: absolute;
-  inset: 0;
-  display: grid;
-  place-items: center;
-  background: radial-gradient(circle at center, rgba(0, 0, 0, 0.5) 0 1.5rem, transparent 1.5rem);
-}
-
-.reel-play::before {
-  content: "";
-  width: 0;
-  height: 0;
-  margin-left: 0.3rem;
-  border-left: 0.85rem solid #fff;
-  border-top: 0.52rem solid transparent;
-  border-bottom: 0.52rem solid transparent;
-}
-
-.reel-link:hover .reel-play,
-.reel-link:focus-visible .reel-play {
-  background: radial-gradient(circle at center, rgba(0, 0, 0, 0.7) 0 1.6rem, transparent 1.6rem);
-}
-
-.reel-meta {
-  margin: 0.25rem 0 0;
-  font-size: 0.875rem;
-}
-
 .video-scroller {
   display: flex;
   gap: 1rem;

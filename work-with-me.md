@@ -15,6 +15,8 @@ Start to finish video creation. Strategy, ideation, hiring, production, talent-c
 
 Panels, hosting, MCing, etc.
 
+Past work: [Praytell](https://www.linkedin.com/posts/bethcleveland_at-last-nights-new-centers-of-influence-activity-7377134883824963584-T041/), [Golin](https://www.linkedin.com/posts/golin_goallin-activity-7424859485237571585-lTYi/), and [Video Consortium](https://www.linkedin.com/feed/update/urn:li:ugcPost:7444768931409567744/)
+
 ## get in touch
 
 [Contact placeholder: explain how to start a conversation. Add a public email address to `_data/socials.yml` as `mailto:PUBLIC_EMAIL` so the link appears in the footer — never publish a private address without clearance.]

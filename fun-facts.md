@@ -1,6 +1,6 @@
 ---
-title: about
-permalink: /about/
+title: "fun facts :)"
+permalink: /fun-facts/
 ---
 
 [Biography placeholder: introduce Macy in her own words. Share the interests, background, and creative work she wants to make public.]

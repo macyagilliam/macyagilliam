@@ -37,4 +37,4 @@ Past work: [Praytell](https://www.linkedin.com/posts/bethcleveland_at-last-night
 
 Macy is a three time Webby award winning video creator, [for her shortform series](https://winners.webbyawards.com/2024/social/social-content-series/education-science/277044/how-are-you-still-in-business) and [for her longer form YouTube work](https://winners.webbyawards.com/2025/video-film/general-video-film/business/324194/i-spent-a-day-working-with-nycs-hot-dog-king). She has spent 4 years building the video team and strategy for Morning Brew. She’s gotten hundreds of millions of views on YouTube, Instagram, and TikTok.
 
-[Back to my work]({{ '/morning-brew/' | relative_url }}) · [More about me]({{ '/about/' | relative_url }})
+[Back to my work]({{ '/morning-brew/' | relative_url }}) · [More about me]({{ '/fun-facts/' | relative_url }})

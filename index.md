@@ -15,4 +15,4 @@ My Morning Brew content centers human interest stories in the world of business.
 {% include youtube.html id="ucWsaVbEu78" title="I started a plumbing company to sell it to private equity" %}
 </div>
 
-[More about me]({{ '/about/' | relative_url }}) · [See Morning Brew]({{ '/morning-brew/' | relative_url }})
+[More about me]({{ '/fun-facts/' | relative_url }}) · [See Morning Brew]({{ '/morning-brew/' | relative_url }})

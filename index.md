@@ -10,6 +10,9 @@ My Morning Brew content centers human interest stories in the world of business.
 
 ## If you’ve never seen anything I made, start here
 
-{% include youtube.html id="" title="Featured video — replace with a descriptive title" %}
+<div class="video-scroller" role="region" aria-label="featured videos" tabindex="0">
+{% include youtube.html id="L7QMgbMlaek" title="I made a sweater from scratch (it made me insane)" %}
+{% include youtube.html id="ucWsaVbEu78" title="I started a plumbing company to sell it to private equity" %}
+</div>
 
 [More about me]({{ '/about/' | relative_url }}) · [See Morning Brew]({{ '/morning-brew/' | relative_url }})

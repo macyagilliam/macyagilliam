@@ -8,7 +8,7 @@ My Morning Brew content centers human interest stories in the world of business.
 
 {% include image.html src="/assets/images/placeholder.svg" alt="Placeholder image with the words ‘Your image here’." width=1600 height=1000 caption="Photo placeholder — replace with a web-sized image." %}
 
-## If you’ve never seen anything I made, start here
+## If you’ve never seen any of my videos, start here
 
 <div class="video-scroller" role="region" aria-label="featured videos" tabindex="0">
 {% include youtube.html id="L7QMgbMlaek" title="I made a sweater from scratch (it made me insane)" %}

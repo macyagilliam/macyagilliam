@@ -9,11 +9,11 @@ Ad reads in a YouTube video or custom social content
 
 ## video coaching and consulting
 
-[Video coaching and consulting placeholder: describe who you coach, what a session covers, and how someone can book one. Replace this line with real copy.]
+Start to finish video creation. Strategy, ideation, hiring, production, talent-coaching, post production. I’ll walk with you through the whole process and teach you to make video that works for your brand.
 
 ## speaking engagements
 
-[Speaking placeholder: describe the settings you speak in, the topics you cover, and how organizers should reach you. Replace this line with real copy.]
+Panels, hosting, MCing, etc.
 
 ## get in touch
 
